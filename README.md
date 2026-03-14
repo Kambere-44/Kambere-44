@@ -3,7 +3,7 @@
 💡 **AI Developer | Software Engineer | Researcher**
 📍 Kampala, Uganda
 
-I am passionate about building **AI-powered systems, healthcare platforms, and smart technologies** that solve real-world problems. My work focuses on combining **Artificial Intelligence, Web Technologies, and IoT systems** to create intelligent applications for education, healthcare, and disaster management.
+I am passionate about building **AI-powered systems, healthcare platforms, and intelligent technologies** that solve real-world problems. My work focuses on combining **Artificial Intelligence, Web Technologies, and IoT systems** to develop solutions for **education, healthcare, and disaster management.**
 
 ---
 
@@ -11,11 +11,11 @@ I am passionate about building **AI-powered systems, healthcare platforms, and s
 
 ### 🎓 AI Assistant For Teachers
 
-An intelligent teaching assistant that helps teachers generate lesson plans, quizzes, and summaries using AI.
+An AI-powered teaching assistant that helps teachers generate lesson plans, quizzes, and academic summaries.
 
 ### 🎥 AI Video Learning Assistant
 
-An AI system that analyzes video or audio lectures and automatically generates:
+A system that analyzes **audio/video lectures** and automatically generates:
 
 * Lecture summaries
 * AI explanations
@@ -24,17 +24,17 @@ An AI system that analyzes video or audio lectures and automatically generates:
 
 ### 🏥 GluCare – Diabetes Management System
 
-A healthcare platform that helps patients and doctors manage diabetes through:
+A digital healthcare platform that helps patients and doctors manage diabetes through:
 
-* health monitoring
-* appointments
-* dietary recommendations
-* real-time chat
-* AI insights
+* Health monitoring
+* Appointment scheduling
+* Dietary recommendations
+* Real-time chat
+* AI health insights
 
 ### 🌊 Flood Early Warning System
 
-An **AI + IoT based system** that predicts floods using sensor data and provides early alerts to communities.
+An **AI + IoT based flood prediction system** that uses sensor data to provide early alerts to communities.
 
 ---
 
@@ -49,27 +49,49 @@ An **AI + IoT based system** that predicts floods using sensor data and provides
 
 ## 🛠️ Technologies & Tools
 
-**Programming**
+### Programming
 
 Python • JavaScript • Kotlin • PHP • Dart
 
-**Frameworks**
+### Frameworks
 
 Streamlit • Flutter • React • Laravel • Flask
 
-**Databases**
+### Databases
 
 MongoDB • MySQL • Firebase
 
-**Tools**
+### Tools
 
 Docker • Git • Linux • VS Code
 
 ---
 
+## 🌐 Professional Profiles
+
+LinkedIn
+https://www.linkedin.com/in/kambere-mark-a2200124b/
+
+ResearchGate
+https://www.researchgate.net/profile/Mark-Kambere
+
+HuggingFace
+https://huggingface.co/Kambere-44
+
+Peerlist
+https://peerlist.io/kamberemark8
+
+Studocu
+https://www.studocu.com/row/user/kambere-mark/20453414
+
+Credly (Certifications)
+https://www.credly.com/users/mark-kambere/
+
+---
+
 ## 📊 GitHub Stats
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kambere-44\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kambere-44\&show_icons=true\&theme=tokyonight)
 
 ---
 
@@ -79,9 +101,13 @@ Docker • Git • Linux • VS Code
 
 ---
 
-## 🌍 Connect With Me
+## 📫 Contact Me
 
-GitHub: https://github.com/Kambere-44
+📧 Email: [kamberemark8@gmail.com](mailto:kamberemark8@gmail.com)
+
+📱 Phone:
++256773058634
++256752835705
 
 ---
 
