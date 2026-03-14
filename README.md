@@ -69,22 +69,25 @@ Docker • Git • Linux • VS Code
 
 ## 🌐 Professional Profiles
 
-LinkedIn
+LinkedIn:
 https://www.linkedin.com/in/kambere-mark-a2200124b/
 
-ResearchGate
+ResearchGate:
 https://www.researchgate.net/profile/Mark-Kambere
 
-HuggingFace
+Academia:
+https://utamu.academia.edu/MarkKambere
+
+HuggingFace:
 https://huggingface.co/Kambere-44
 
-Peerlist
+Peerlist:
 https://peerlist.io/kamberemark8
 
-Studocu
+Studocu:
 https://www.studocu.com/row/user/kambere-mark/20453414
 
-Credly (Certifications)
+Credly (Certifications):
 https://www.credly.com/users/mark-kambere/
 
 ---
