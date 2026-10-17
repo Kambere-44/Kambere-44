@@ -32,6 +32,25 @@ A digital healthcare platform that helps patients and doctors manage diabetes th
 * Real-time chat
 * AI health insights
 
+### 🏥 MAMA-FOLLOW – AI-Powered Maternal Care Assistant
+
+An AI-powered maternal healthcare and pregnancy follow-up system designed to support expectant mothers throughout their pregnancy journey.
+
+The system is designed to provide:
+
+- Pregnancy and gestational-age tracking
+- Last Menstrual Period (LMP) and Estimated Due Date (EDD) calculation
+- Antenatal Care (ANC) appointment scheduling and follow-up
+- Pregnancy-stage and trimester tracking
+- Maternal-health information and guidance
+- AI-powered conversational assistance
+- Appointment reminders and follow-up alerts
+- Maternal care and pregnancy journey monitoring
+
+**Technology:** Python • Flask • MySQL • HTML • CSS • JavaScript • Google Gemini AI
+
+🌐 **Live Demo:** https://mama-follow.onrender.com
+
 ### 🌊 Flood Early Warning System
 
 An **AI + IoT based flood prediction system** that uses sensor data to provide early alerts to communities.
